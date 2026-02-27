@@ -36,7 +36,7 @@ export default {
         });
 
         // URL publik R2 (bucket harus public)
-        const fileURL = `https://dynotic-storage.r2.cloudflarestorage.com/${fileName}`;
+        const fileURL = `https://pub-ee08d555521649b1a4f4176053b2954c.r2.dev/${fileName}`;
 
         return new Response(
           JSON.stringify({
