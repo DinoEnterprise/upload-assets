@@ -1,4 +1,4 @@
-name = "dynotic-uploader"
+name = "upload-assets"
 account_id = "5b66e179d873e88287a27ac22ab66678"
 workers_dev = true
 compatibility_date = "2026-02-27"
